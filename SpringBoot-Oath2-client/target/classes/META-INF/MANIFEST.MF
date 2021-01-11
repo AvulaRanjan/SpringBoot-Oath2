@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: ranja
+Build-Jdk: 15.0.1
+Implementation-Title: boot-client-application
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.demo.oath2-client
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBoot-Oat
+ h2-client/
+Created-By: Maven Integration for Eclipse
+

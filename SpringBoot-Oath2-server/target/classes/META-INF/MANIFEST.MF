@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: ranja
+Build-Jdk: 15.0.1
+Implementation-Title: spring-boot-oath2
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.demo.oath2-server
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-oa
+ th2/
+Created-By: Maven Integration for Eclipse
+
